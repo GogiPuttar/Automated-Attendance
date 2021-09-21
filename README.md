@@ -2,7 +2,7 @@
 This a web scraping bot written in python using the selenium library. The robot logs into the website with some credentials, locates the attendance widget, scrolls through the list to find the current date's attendance and marks it present, daily. 
 
 The bot was custom made for my [college's website](http://psd.bits-pilani.ac.in/Login.aspx).
-You can see it in action [here]()
+You can see it in action [here](https://drive.google.com/file/d/1stjwrUn5xRpjeBQEo3Pe_NCtyHV443un/view?usp=sharing).
 
 The bot is tailored for a specific task. It can:
 * Open Chrome through a webdriver
